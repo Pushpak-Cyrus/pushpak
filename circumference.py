@@ -14,7 +14,7 @@ def main():
     elif choice == 2:
      diameter = diameter_of_circle()
     elif choice == 3:
-     area = area_circle()
+     area = area_circle()njh
 
     else:
         print("Invalid choice")
